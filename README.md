@@ -103,6 +103,8 @@ HR Manager
 Overview and login/register options for both employees and HR managers
 ![image alt](https://github.com/NuthanHD/Employee-Attrition-Rate-Prediction-Using-Machine-Learning/blob/9fc4b3c2300ccd5e7142cc4bfc6aff387eee50eb/Images/HR%20Login.png)
 
+![image alt](https://github.com/NuthanHD/Employee-Attrition-Rate-Prediction-Using-Machine-Learning/blob/10aecc0d58acf372bf5021e103e7998a9fc99a7e/Images/Employee%20Login.png)
+
 `/employee/dashboard` - Employee Dashboard
 
 - Personal information form
