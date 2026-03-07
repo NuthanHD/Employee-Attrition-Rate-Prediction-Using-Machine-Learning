@@ -133,6 +133,7 @@ Overview and login/register options for both employees and HR managers
 - Track all predictions made
 - View historical data and changes
 - Delete historical records
+![image alt](https://github.com/NuthanHD/Employee-Attrition-Rate-Prediction-Using-Machine-Learning/blob/0e75b2e464ce9ce69e50b0a1b0a0265b81e59058/Images/Prediction%20History.png)
 
 `/hr/charts` - Analytics Charts
 
