@@ -101,6 +101,8 @@ HR Manager
  `/` - Landing Page
 
 Overview and login/register options for both employees and HR managers
+<img width="1878" height="907" alt="Screenshot 2025-12-20 110544" src="https://github.com/user-attachments/assets/a9d5fcf1-592e-4e1a-b174-f1f75ef541e1" />
+
 
 `/employee/dashboard` - Employee Dashboard
 
