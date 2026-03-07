@@ -142,8 +142,8 @@ Overview and login/register options for both employees and HR managers
 - Job role distribution
 - Salary ranges
 - Gender distribution
-
- `/hr/analytics` - Advanced Analytics
+![image alt](https://github.com/NuthanHD/Employee-Attrition-Rate-Prediction-Using-Machine-Learning/blob/a15ef4d2bf76cddd960e7ef5e95850a26f6f4fc9/Images/Charts.png
+ `/hr/analytics` - Advanced Analytics)
 
 - Attrition risk analysis by department
 - Job satisfaction correlation
