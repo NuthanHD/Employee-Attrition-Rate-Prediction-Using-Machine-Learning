@@ -118,6 +118,7 @@ Overview and login/register options for both employees and HR managers
 - Add new employee records
 - Quick statistics on employee base
 - Quick access to other HR sections
+![image alt](https://github.com/NuthanHD/Employee-Attrition-Rate-Prediction-Using-Machine-Learning/blob/e4ba95258b1f6b39c6b12806d6c41a4adb165206/Images/Prediction%20Dashboard.png)
 
  `/hr/employees` - Employee Management
 
