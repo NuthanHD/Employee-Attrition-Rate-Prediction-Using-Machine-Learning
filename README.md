@@ -101,6 +101,7 @@ HR Manager
  `/` - Landing Page
 
 Overview and login/register options for both employees and HR managers
+![image alt](https://github.com/NuthanHD/Employee-Attrition-Rate-Prediction-Using-Machine-Learning/blob/9fc4b3c2300ccd5e7142cc4bfc6aff387eee50eb/Images/HR%20Login.png)
 
 `/employee/dashboard` - Employee Dashboard
 
