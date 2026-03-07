@@ -126,6 +126,7 @@ Overview and login/register options for both employees and HR managers
 - Click employee to view full details
 - Predict attrition for individual employees
 - Delete employee records
+![image alt](https://github.com/NuthanHD/Employee-Attrition-Rate-Prediction-Using-Machine-Learning/blob/436b42d89d6231dd51c0ae2d3f8a0729b6c84e08/Images/Employee%20Details.png)
 
 `/hr/history` - Prediction History
 
