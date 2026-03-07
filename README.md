@@ -111,6 +111,7 @@ Overview and login/register options for both employees and HR managers
 - Job satisfaction rating (5-star system)
 - Attrition prediction results
 - Profile update capability
+  ![image alt](https://github.com/NuthanHD/Employee-Attrition-Rate-Prediction-Using-Machine-Learning/blob/0d4c6a39a4e151af03275b91aa9f1c62ed900f15/Images/Employee%20Dashboard.png)
 
 `/hr/dashboard` - HR Dashboard
 
